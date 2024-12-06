@@ -1105,5 +1105,11 @@ video {
   }
 }
 
+@media (min-width: 768px) {
+  .md\:scroll-auto {
+    scroll-behavior: auto;
+  }
+}
+
 
  

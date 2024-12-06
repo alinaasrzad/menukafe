@@ -1,5 +1,5 @@
-import { maktils } from "./maktil.js";
-import { caffees } from "./cafee.js";
+import { maktils } from "./data/maktil.js";
+import { caffees } from "./data/cafee.js";
 
 console.log(maktils);
 {
